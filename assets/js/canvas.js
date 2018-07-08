@@ -12,7 +12,7 @@ $(function() {
   canvas.style.display = 'block';
 
   context.fillStyle = color;
-  context.lineWidth = 0.2;
+  context.lineWidth = 1;
   context.strokeStyle = color;
 
   for (var i = 0; i < count; i++) {
