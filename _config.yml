@@ -1,7 +1,7 @@
 # Site
-title: Halve
+title: Amiel Monasterial
 description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+url: https://amielmon.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,15 +29,15 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             email
 #google.plus:        username
-twitter:            username
+#twitter:            amielmon
 #facebook:           username
 github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
