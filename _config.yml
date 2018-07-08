@@ -1,8 +1,8 @@
 # Site
-title: Amiel Monasterial
-description: Coder, guitarist, fashion enthusiast
+title: Amiel Monasteria
+description: "Coder, guitarist, fashion enthusiast"
 url: https://amielmon.github.io
-logo: images/me.png                                       # Site logo
+logo: "images/me.png"                                       # Site logo
 locale: en_US
 
 # Left Block Images
