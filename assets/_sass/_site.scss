@@ -495,7 +495,7 @@ canvas {
       color: darken($white, 40);
     }
     .date {
-      color: #399f62;
+      color: #cc0000;
       float: right;
       display: inline-block;
       font-size: 15px;
@@ -564,7 +564,7 @@ canvas {
     display: block;
   }
   a:not(.btn):not(.pagination_pager) {
-    color: #399f62;
+    color: #CC0000;
     border-bottom: 1px dotted $red;
   }
   ul,
