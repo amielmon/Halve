@@ -15,9 +15,9 @@
 }
 
 @font-face {
- font-family: 'Avenir Next';
- src: url ('../fonts/AvenirNextLTPro-Regular.eot');
- src: url ('../fonts/AvenirNextLTPro-Regular.eot') format('embedded-opentype'), url('../fonts/AvenirNextLTPro-Regular.otf') format('opentype'), url('../fonts.AvenirNextLTPro-Regular.ttf') format('truetype'), url('../fonts/AvenirNextLTPro-Regular.woff') format('woff');
+ font-family: 'AvenirNext';
+ src: url ('assets/fonts/AvenirNextLTPro-Regular.eot');
+ src: url ('assets/fonts/AvenirNextLTPro-Regular.eot') format('embedded-opentype'), url('assets/fonts/AvenirNextLTPro-Regular.otf') format('opentype'), url('assets/fonts.AvenirNextLTPro-Regular.ttf') format('truetype'), url('assets/fonts/AvenirNextLTPro-Regular.woff') format('woff');
  font-weight: normal;
  font-style: normal;
   
