@@ -410,7 +410,7 @@ canvas {
   text-align: left;
   h1,
   h2 {
-    font-size: 25px;
+    font-size: 35px;
     color: lighten($black, 27.8431);
     &:after {
       position: absolute;
@@ -428,7 +428,7 @@ canvas {
   }
   p {
     color: darken($white, 40);
-    font-size: 16px;
+    font-size: 12px;
     margin: 10px 0;
     padding-top: 0;
     line-height: 24px;
